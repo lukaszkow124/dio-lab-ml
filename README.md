@@ -161,3 +161,10 @@ Now you can test your deployed service.
  ]
  ```
 The test pane took the input data and used the model you trained to return the predicted number of rentals.
+
+Actual result from my own model:
+```
+[
+  356.604437026278
+]
+```
